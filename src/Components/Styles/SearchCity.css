@@ -1,0 +1,18 @@
+.search-bar{
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid white;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+input:focus{
+    outline:1px solid royalblue;
+    border:none;
+}
+
+.margin-control{
+    margin-top: 2em;
+}
